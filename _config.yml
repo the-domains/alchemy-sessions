@@ -1,0 +1,28 @@
+name: Alchemy Sessions
+favicon: null
+layout_spectrum: 0.34075164259411395
+typography_spectrum: 0.42385143018327653
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9851545537821949
+  lightness: 0.8225631762761623
+  saturation: 0.832098331535235
+  rhythmicContrast: 0.05167314992286265
+purpose: []
